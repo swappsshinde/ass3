@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18 Sep, 2016, 1:04:43 PM
+    Author     : swapnil
+*/
+
+h1,h3{
+    
+    text-align: center
+}
+.menu1{
+    margin-top: 35px;
+}
+.menu{
+    background-color: #EFEFEF;
+    margin-left:  13px;
+    margin-right:  13px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: auto;
+    padding: 5px;
+    text-align: center;
+}
